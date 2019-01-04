@@ -1,3 +1,5 @@
 Testing branching from a commit. 
 
 This entry is for commit-1. 
+This entry is for commit-2.
+
