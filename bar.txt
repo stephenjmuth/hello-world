@@ -1,3 +1,0 @@
-line 1 change foobar
-line 2
-line 3
