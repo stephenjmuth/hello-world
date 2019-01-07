@@ -7,4 +7,6 @@ print('Hello, World.')
 #Change 2 of Feature_1
 print('This is python version {}'.format(platform.python_version()))
 
-
+#This entry is to demonstrate a merge conflict.
+var1=7
+print(var1)
