@@ -1,1 +1,5 @@
-#Insert text to demonstrate diff command.
+#Insert/delete text to demonstrate diff command.
+#Text inserted here:
+#
+#Text deleted here:
+#Deleted text.
