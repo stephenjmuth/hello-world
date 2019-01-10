@@ -1,7 +1,2 @@
-Testing branching from a commit. 
+Testing branching for demonstrating cherry-picking.
 
-This entry is for commit-1. 
-This entry is for commit-2.
-This entry is for commit-3. 
-
-I will branch off of "commit-2" eliminating "commit-3" above and this line. 
