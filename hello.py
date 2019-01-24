@@ -8,5 +8,5 @@ print('Hello, World.')
 print('This is python version {}'.format(platform.python_version()))
 
 #This entry is to demonstrate a merge conflict.
-var1=7.0
+var1=7
 print(var1)
