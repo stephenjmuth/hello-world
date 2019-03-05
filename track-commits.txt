@@ -4,3 +4,6 @@ This entry is for commit#1.
 
 #Testing Pull request
 #Comments will be labled and list below(1-5):
+
+#Continuing to test pull request. Also, going to merge without rebasing this time. 
+#Request-Pull#2
