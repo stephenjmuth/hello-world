@@ -11,6 +11,6 @@ print(
     )
 )
 
-# This entry is to deomonstrate a merge conflict.
-var1 = 7.0
-print(var1)
+# Change variable name for pull-request.
+var2 = 7.0
+print(var2)
