@@ -12,5 +12,5 @@ print(
 )
 
 # Change variable name for pull-request.
-var2 = 7.0
-print(var2)
+MoreDescriptive = 7.0
+print(MoreDescriptive)
